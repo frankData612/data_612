@@ -1,0 +1,8 @@
+URL's of data source:
+
+https://catalog.data.gov/dataset/state-drug-utilization-data-2010-81ad0
+
+Or direct download
+
+https://data.medicaid.gov/api/views/mmgn-kvy5/rows.csv?accessType=DOWNLOAD
+
