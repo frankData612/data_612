@@ -10,4 +10,8 @@ This repository includes a variety of datasets to be used for educational purpos
 
 2- baseballdatabank-master
 
-  - These data are collected from [Sean Lahman](http://www.seanlahman.com/about/) including the latest CSV format version. There are two folders inside the 'baseballdatabank-master' folder, the 'core' folder and the 'upstream' folder. In the 'core' folder are located most of the database tables formated as CSV files, plus a 'readme' text file explaining the tables. The 'upstream' folder contains the 'Teams.csv' table. You can [download the latest version](http://www.seanlahman.com/baseball-archive/statistics/) of the data into your own local machine directly from Sean's site. 
+  - These data are collected from [Sean Lahman](http://www.seanlahman.com/about/) including the latest csv format version. There are two folders inside the 'baseballdatabank-master' folder, the 'core' folder and the 'upstream' folder. In the 'core' folder are located most of the database tables formated as csv files, plus a 'readme' text file explaining the tables. The 'upstream' folder contains the 'Teams.csv' table. You can [download the latest version](http://www.seanlahman.com/baseball-archive/statistics/) of the data into your own local machine directly from Sean's site. 
+
+3- Stock data
+
+  - Dataset is provided by the (author](https://github.com/tonysla) of the ["Easy And Fun With BeautifulSoup"](https://github.com/tonysla/Easy-And-Fun-With-BeautifulSoup). There are two identical datasets of stock data, one as a csv format and the other as an excel type. Data are extracted from the Yahoo Finance website and include 90 days of data from November 21, 2019 until April 28, 2020. Data are row, current and very good to work with, meaning ideal for learning purposes. 
