@@ -18,6 +18,6 @@ This repository includes a variety of datasets to be used for educational purpos
 
 4- Yelp datasets   
 
-- Yelp datasets are included as a link because of their size. 
+- Yelp datasets are included below as a link. The tables are formated as json and the data are very reach and interesting to work with. Just be aware that the data are large and you will need to download directly from the source, links below.  
   - [Link to the datasets.](https://www.yelp.com/dataset)
   - [Yelp dataset documentation](https://www.yelp.com/dataset/documentation/main)
