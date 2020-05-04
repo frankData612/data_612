@@ -15,3 +15,9 @@ This repository includes a variety of datasets to be used for educational purpos
 3- Stock data
 
   - Dataset is provided by the [author](https://github.com/tonysla) of the ["Easy And Fun With BeautifulSoup"](https://github.com/tonysla/Easy-And-Fun-With-BeautifulSoup). There are two identical datasets of stock data, one as a csv format and the other as an excel type. Data are extracted from the Yahoo Finance website and include 90 days of data from November 21, 2019 until April 28, 2020. Data are row, current and very good to work with, meaning ideal for learning purposes. 
+
+4- Yelp datasets   
+
+- Yelp datasets are included as a link because of their size. 
+  - [Link to the datasets.](https://www.yelp.com/dataset)
+  - [Yelp dataset documentation](https://www.yelp.com/dataset/documentation/main)
